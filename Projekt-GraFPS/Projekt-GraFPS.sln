@@ -7,8 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt-GraFPS", "Projekt-G
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9363558-DC7D-44A7-A67E-9950B693D91B}"
 	ProjectSection(SolutionItems) = preProject
-		TEST.cs = TEST.cs
-		test2.cs = test2.cs
+		Menu.cs = Menu.cs
+		Przeciwnik.cs = Przeciwnik.cs
+		SamoZniszczenie.cs = SamoZniszczenie.cs
+		Strzal.cs = Strzal.cs
+		Zdrowie.cs = Zdrowie.cs
 	EndProjectSection
 EndProject
 Global
