@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt-GraFPS", "Projekt-G
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9363558-DC7D-44A7-A67E-9950B693D91B}"
 	ProjectSection(SolutionItems) = preProject
+		Celownik.cs = Celownik.cs
+		DrzwiNew.cs = DrzwiNew.cs
 		Menu.cs = Menu.cs
 		Przeciwnik.cs = Przeciwnik.cs
 		SamoZniszczenie.cs = SamoZniszczenie.cs
